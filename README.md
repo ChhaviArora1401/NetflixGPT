@@ -3,6 +3,10 @@
 - Configured TailwindCSS
 - Github Repo
 
+- Header
+- login form
+- Sign up form
+
 # Features: 
 - Login/Sign Up
   - SignIn / Sign Up form
