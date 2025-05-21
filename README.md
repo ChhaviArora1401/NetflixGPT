@@ -4,8 +4,12 @@
 - Github Repo
 
 - Header
+- Routing of App
 - login form
 - Sign up form
+- Form Validation
+- useRef Hook
+
 
 # Features: 
 - Login/Sign Up
