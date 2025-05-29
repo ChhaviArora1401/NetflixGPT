@@ -18,6 +18,28 @@
 - Implemented sign out
 - update profile
 
+- bug: signUp user displayName and profile pic update
+- bug: if user not logged in Redirect browse to login page and vice versa
+- unsubscribed to the onauthstatechange callback
+- Constants File
+
+- register tmbd api & create an app & get access token
+- get data from tmdb now playing movie list AP
+- Custom Hook for Now Playing Movies
+- Create movie Slice
+- Updated staore with movies Data
+- Plannning for Min container & secondary conatiner
+- Fetch Data for Trailer Video
+- Update Stroe with Trailer Video Data
+- Embedded the Youtueb video and make it autoplay and mute
+- Tailwind Classes to make Main Conatiner Look awesome
+
+- browse page
+- movie api list from tmdb
+
+
+
+
 
 # Features: 
 - Login/Sign Up
