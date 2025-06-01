@@ -21,7 +21,7 @@
 - bug: signUp user displayName and profile pic update
 - bug: if user not logged in Redirect browse to login page and vice versa
 - unsubscribed to the onauthstatechange callback
-- Constants File
+- Add Hardcoded values to the Constants File
 
 - register tmbd api & create an app & get access token
 - get data from tmdb now playing movie list AP
@@ -34,10 +34,12 @@
 - Embedded the Youtueb video and make it autoplay and mute
 - Tailwind Classes to make Main Conatiner Look awesome
 
-- browse page
-- movie api list from tmdb
-
-
+- Build secondary Component 
+- Build Movies List
+- Build Movie card
+- TMDb Image CDN URL
+- Made ethe Browse page amazing with Tailwind CSS
+- usePopularMovies Custom Hook  
 
 
 
