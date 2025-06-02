@@ -20,3 +20,24 @@
   font-family: Arial, sans-serif;
   background: rgb(0, 0, 0);
 }
+
+.searchgpt::before {
+  background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/202ac35e-1fca-44f0-98d9-ea7e8211a07c/web/IN-en-20250512-TRIFECTA-perspective_688b8c03-78cb-46a6-ac1c-1035536f871a_large.jpg');
+  content: "";
+  /* opacity: 0.5; */
+  z-index: -1;
+  position: absolute;
+  background-repeat: no-repeat; 
+  background-position: center center;
+  inset: 0px;
+  background-size: cover;
+}
+
+.searchgpt {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  position: relative;
+  font-family: Arial, sans-serif;
+  /* background: rgb(0, 0, 0); */
+}
